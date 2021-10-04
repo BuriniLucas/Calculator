@@ -1,0 +1,14 @@
+C:\Users\lbbmk\source\repos\Calculator App MOO ICT\Calculator App MOO ICT\bin\Debug\Calculator App MOO ICT.exe.config
+C:\Users\lbbmk\source\repos\Calculator App MOO ICT\Calculator App MOO ICT\bin\Debug\Calculator App MOO ICT.exe
+C:\Users\lbbmk\source\repos\Calculator App MOO ICT\Calculator App MOO ICT\bin\Debug\Calculator App MOO ICT.pdb
+C:\Users\lbbmk\source\repos\Calculator App MOO ICT\Calculator App MOO ICT\obj\Debug\Calculator App MOO ICT.csproj.AssemblyReference.cache
+C:\Users\lbbmk\source\repos\Calculator App MOO ICT\Calculator App MOO ICT\obj\Debug\MainWindow.baml
+C:\Users\lbbmk\source\repos\Calculator App MOO ICT\Calculator App MOO ICT\obj\Debug\MainWindow.g.cs
+C:\Users\lbbmk\source\repos\Calculator App MOO ICT\Calculator App MOO ICT\obj\Debug\App.g.cs
+C:\Users\lbbmk\source\repos\Calculator App MOO ICT\Calculator App MOO ICT\obj\Debug\Calculator App MOO ICT_MarkupCompile.cache
+C:\Users\lbbmk\source\repos\Calculator App MOO ICT\Calculator App MOO ICT\obj\Debug\Calculator App MOO ICT.g.resources
+C:\Users\lbbmk\source\repos\Calculator App MOO ICT\Calculator App MOO ICT\obj\Debug\Calculator_App_MOO_ICT.Properties.Resources.resources
+C:\Users\lbbmk\source\repos\Calculator App MOO ICT\Calculator App MOO ICT\obj\Debug\Calculator App MOO ICT.csproj.GenerateResource.cache
+C:\Users\lbbmk\source\repos\Calculator App MOO ICT\Calculator App MOO ICT\obj\Debug\Calculator App MOO ICT.csproj.CoreCompileInputs.cache
+C:\Users\lbbmk\source\repos\Calculator App MOO ICT\Calculator App MOO ICT\obj\Debug\Calculator App MOO ICT.exe
+C:\Users\lbbmk\source\repos\Calculator App MOO ICT\Calculator App MOO ICT\obj\Debug\Calculator App MOO ICT.pdb
