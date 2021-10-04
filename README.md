@@ -15,10 +15,12 @@ The application consists of a simple demo of WPF (Windows Presentation Foundatio
 - C#
 - WPF
 
-# Como executar o projeto
+# How to run the project
 
-## Back end
-Pré-requisitos: Java 11
+## Prerequisites
+- Visual Studio
+
+## How to open
 
 ```bash
 # clonar repositório
@@ -48,8 +50,12 @@ yarn install
 yarn start
 ```
 
-# Autor
+# Author
 
-Wellington Mazoni de Andrade
+Lucas Burini Marchi
 
-https://www.linkedin.com/in/wmazoni
+- https://www.linkedin.com/in/lucas-burini-marchi-9815b4186
+
+## Social networks
+
+- https://www.instagram.com/burini_lucas/
