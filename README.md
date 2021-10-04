@@ -17,6 +17,16 @@ The application consists of a simple demo of WPF (Windows Presentation Foundatio
 
 # How to run the project
 
+```bash
+# Clone repository
+git clone https://github.com/BuriniLucas/Calculator
+
+# Enter the project folder 
+
+# Enter Visual Studio and open the folder.
+```
+
+
 ## Prerequisites
 - Visual Studio
 
